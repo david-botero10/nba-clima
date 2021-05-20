@@ -2,7 +2,7 @@
 
 Mi primer APP en consola.
 
-La idea surge luego de querer aprender un poco mas sobre NodeJs y poder consumir una API
+La idea surge luego de querer aprender un poco mas sobre NodeJs y poder consumir una API,
 Una de mis pasiones es la Nba, por eso opte por consumir una API basica de equipos y aunque no tenga mucha relacion obtener el clima actual de la ciudad.
 
 
