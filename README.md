@@ -9,7 +9,7 @@ With this app you can get the followings outputs:
 - Name of Team
 - Name of Conference
 - City of Team
-- Wheater Status
+- Current weather
 
 ### (You should write a code between 1 & 30)
 
