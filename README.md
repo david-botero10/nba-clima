@@ -1,11 +1,17 @@
-# APP EN CONSOLA QUE COMBINA NBA Y CLIMA ACTUAL
+# NBA AND WEATHER
 
-Mi primer APP en consola.
+### This is my first console application.
 
-La idea surge luego de querer aprender un poco mas sobre NodeJs y poder consumir una API,
-Una de mis pasiones es la Nba, por eso opte por consumir una API basica de equipos y aunque no tenga mucha relacion obtener el clima actual de la ciudad.
+The idea arose after want to learn a little more about NodeJs and be able to consume an API, One of my passions is the Nba, that's why I chose to consume a basic equipment API and although it does not have much to do with obtaining the current climate of the city.
 
-(Debes introducir un ID entre 1 y 31)
+With this app you can get the followings outputs:
+
+- Name of Team
+- Name of Conference
+- City of Team
+- Wheater Status
+
+### (You should write a code between 1 & 30)
 
 Instalar paquetes de node
 
